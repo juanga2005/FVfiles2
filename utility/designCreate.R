@@ -18,9 +18,9 @@
 
 
 #Values of the parameters
-p=0.1
-L=-60
-z0=2.7
+p=0.111897
+L=-60.86922
+z0=2.661986
 
 f1=rep(p,64);f2=rep(z0,64);f3=rep(L,64)
 
