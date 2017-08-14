@@ -2,17 +2,17 @@ tend =     0.1296D+07
 info =    0
 smallest dt =     0.1000D+01
 largest dt =     0.5000D+03
-last dt =     0.5990D+01
+last dt =     0.2668D+01
 largest cfl =     0.9996D+00
-last cfl =     0.4291D+00
+last cfl =     0.6341D+00
 steps taken =****
 
 tend =     0.2591D+07
 info =    0
-smallest dt =     0.3414D+01
-largest dt =     0.4622D+03
-last dt =     0.2477D+02
+smallest dt =     0.1520D+01
+largest dt =     0.2059D+03
+last dt =     0.1103D+02
 largest cfl =     0.9996D+00
-last cfl =     0.4101D+00
+last cfl =     0.3294D+00
 steps taken =****
 

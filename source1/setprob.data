@@ -23,19 +23,19 @@
  2	    zupper boundary for diff (no robin BC)
  -0.005     w_deposition ground deposition coefficient (should be negative so flux is going out of domain)
 4	    n_src number of sources
- 0.0004748681     G- output of source 1 (kg/s)
+ 0.0009710867    G- output of source 1 (kg/s)
  748.0     x- pos of source 1 (meters)
  224.40     y- pos of source 1 (meters)
  15.0      z- pos of source 1 (meters)
- 0.0007019305     G- output of source 2
+ 0.001955398     G- output of source 2
  625.60      x- pos of source 2
  176.80      y- pos of source 2
  35.0      z- pos of source 2
- 0.0002726018    G- output of source 3
+ 0.0001598436    G- output of source 3
  255.0     x- pos of source 3
  646.0     y- pos of source 3
  15.0      z- pos of source 3
- 0.0003992903    G- output of source 4
+ 0.000166959    G- output of source 4
  251.60      x- pos of source 4
  867.0      y- pos of source 4
  15.0       z- pos of source 4
